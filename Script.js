@@ -5,6 +5,6 @@ mainBranch();
 
 
 function greet() {
-    console.log("Hello Everyone");
+    console.log("Greeting from Feature Branch");
 }
 greet();
